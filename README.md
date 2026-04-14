@@ -32,7 +32,7 @@ The dataset intially consisted of data that was too much to store on github, so 
 
 3. 'year': Year car was made
 
-4. car_long: Long of the car
+4. 'car_long': Long of the car
 
 5. 'lat': Lat of the car
 
