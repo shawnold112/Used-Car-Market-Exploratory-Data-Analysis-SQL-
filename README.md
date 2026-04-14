@@ -13,7 +13,7 @@ To conduct basic data cleaning, analyze car data, data quality issues and brand 
 ## Table Of Contents
   - [Introduction](#introduction)
 
-  - [Potential Usecases](#potential-usecases)
+  - [Key Features](#Key Features)
   
   - [Getting Started](#getting-started)
 
