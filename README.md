@@ -12,17 +12,10 @@ To conduct basic data cleaning, analyze car data, data quality issues and brand 
 
 ## Table Of Contents
   - [Introduction](#introduction)
-
-  - [Key Features](#Key Features)
   
-  - [Getting Started](#getting-started)
+  - [KeyFeatures](#keyfeatures)
 
-  - [Exploratory Analysis](#exploratory-analysis)
-
-  - [Relevant Insights]()
-
-  - [Relevant Links](#relevant-links)
-
+  - [Questions](#Questions)
 
 ## Introduction 
 
@@ -60,12 +53,18 @@ The dataset intially consisted of data that was too much to store on github, so 
 14. 'odometers': The car's odometer
 
 
+## Questions
 
+1. What is the most common car manufacturer?
 
+2. What is the average price of manufacturer?
 
+3. What are the most expensive cars?
 
+4. What are the cheapest cars?
 
+5. What are the market trends of cars by year?
 
+6. What is the most popular car type?
 
-
-  
+7. What results happen from analyzing car condition?
